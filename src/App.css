@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Mitr&display=swap');
+
+.app {
+  position: absolute;
+  top:  50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.main{
+  background-color: rgba(242, 221, 221, 0.66);
+  border-radius: 25px;
+  font-family: Mitr;
+}
+
+#login-form{
+  background-color: rgba(242, 221, 221, 0.66);
+  border-radius: 25px;
+  font-family: Mitr;
+}
+
+#black{
+  font-size:150%;
+  color: #0a0a0a;
+}
+
+#table{
+  background-color: rgba(242, 221, 221, 0.829);
+  border-radius: 25px;
+  vertical-align: top;
+  font-family: Mitr;
+}
+
+input{
+  font-family: Mitr;
+  width: 100%;
+  padding: 8px 10px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+#pages{
+  font-size:200%;
+  color: #db2518;
+  text-shadow: 2px 2px rgb(233, 158, 158);
+}
+
+#eat{
+  font-size:150%;
+  color: #db2518
+}
+
+.navbar{
+  background-color: rgb(32, 32, 32);
+}
+
+.is-light{
+  font-family: Mitr;
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.is-light:hover {
+  background-color: #555555;
+  color: white;
+}
+
+#process{
+  font-family: Mitr;
+  background-color: #555555;
+  color: white;
+  border: 2px solid #555555;
+}
+
+#process:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+#hate{
+  font-family: Mitr;
+  background-color: #ec5959;
+  color: white;
+  border: 2px solid #ec5959;
+}
+
+#hate:hover {
+  background-color: white;
+  color: #8a1b1b;
+  border: 2px solid #ec5959;
+}
+
+#con{
+  font-family: Mitr;
+  background-color: #35b94b;
+  color: white;
+  border: 2px solid #35b94b;
+}
+
+#con:hover {
+  background-color: white;
+  color: #0f3816;
+  border: 2px solid #35b94b;
+}
+
+#Link{
+  font-family: Mitr;
+  text-decoration: none;
+  color: rgb(72, 91, 197);
+}
+
+#Link:hover {
+  background-color: rgb(72, 91, 197);
+  color: white;
+}
