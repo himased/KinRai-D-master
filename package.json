@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ennllzee.git.io/KinRai-D/",
+  "homepage": "http://himased.git.io/KinRai-D/",
   "name": "kinrai-d",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,6 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "gh-pages": "^2.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
     "nodemon": "^2.0.3",
@@ -28,7 +27,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "node index.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -49,7 +48,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
