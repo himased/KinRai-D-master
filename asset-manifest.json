@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/KinRai-D-master/static/css/main.dbef194f.chunk.css",
-    "main.js": "/KinRai-D-master/static/js/main.b596fae0.chunk.js",
-    "main.js.map": "/KinRai-D-master/static/js/main.b596fae0.chunk.js.map",
+    "main.css": "/KinRai-D-master/static/css/main.4043dda9.chunk.css",
+    "main.js": "/KinRai-D-master/static/js/main.e96babd4.chunk.js",
+    "main.js.map": "/KinRai-D-master/static/js/main.e96babd4.chunk.js.map",
     "runtime-main.js": "/KinRai-D-master/static/js/runtime-main.a57ec4f7.js",
     "runtime-main.js.map": "/KinRai-D-master/static/js/runtime-main.a57ec4f7.js.map",
     "static/css/2.de424728.chunk.css": "/KinRai-D-master/static/css/2.de424728.chunk.css",
-    "static/js/2.215f3be5.chunk.js": "/KinRai-D-master/static/js/2.215f3be5.chunk.js",
-    "static/js/2.215f3be5.chunk.js.map": "/KinRai-D-master/static/js/2.215f3be5.chunk.js.map",
+    "static/js/2.8b8dac54.chunk.js": "/KinRai-D-master/static/js/2.8b8dac54.chunk.js",
+    "static/js/2.8b8dac54.chunk.js.map": "/KinRai-D-master/static/js/2.8b8dac54.chunk.js.map",
     "index.html": "/KinRai-D-master/index.html",
-    "precache-manifest.abc66ea8a149be5b43291d82c6bbaf4d.js": "/KinRai-D-master/precache-manifest.abc66ea8a149be5b43291d82c6bbaf4d.js",
+    "precache-manifest.b76c67796dc81da076729b5377619704.js": "/KinRai-D-master/precache-manifest.b76c67796dc81da076729b5377619704.js",
     "service-worker.js": "/KinRai-D-master/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/KinRai-D-master/static/css/2.de424728.chunk.css.map",
-    "static/css/main.dbef194f.chunk.css.map": "/KinRai-D-master/static/css/main.dbef194f.chunk.css.map",
-    "static/js/2.215f3be5.chunk.js.LICENSE.txt": "/KinRai-D-master/static/js/2.215f3be5.chunk.js.LICENSE.txt",
+    "static/css/main.4043dda9.chunk.css.map": "/KinRai-D-master/static/css/main.4043dda9.chunk.css.map",
+    "static/js/2.8b8dac54.chunk.js.LICENSE.txt": "/KinRai-D-master/static/js/2.8b8dac54.chunk.js.LICENSE.txt",
     "static/media/Logo1.png": "/KinRai-D-master/static/media/Logo1.48e0803d.png",
-    "static/media/index.css": "/KinRai-D-master/static/media/bg.d7a2b27b.jpg"
+    "static/media/index.css": "/KinRai-D-master/static/media/bg.d7a2b27b.jpg",
+    "static/media/chain.jpg": "/KinRai-D-master/static/media/chain.6ba88dbf.jpg",
+    "static/media/nick.jpg": "/KinRai-D-master/static/media/nick.633043f3.jpg",
+    "static/media/palm.jpg": "/KinRai-D-master/static/media/palm.13a9a421.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a57ec4f7.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.215f3be5.chunk.js",
-    "static/css/main.dbef194f.chunk.css",
-    "static/js/main.b596fae0.chunk.js"
+    "static/js/2.8b8dac54.chunk.js",
+    "static/css/main.4043dda9.chunk.css",
+    "static/js/main.e96babd4.chunk.js"
   ]
 }
