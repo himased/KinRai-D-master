@@ -22,7 +22,7 @@ export default class App extends Component {
           </div>
         )} />
         
-        <Route path="KainRai-D-master/register" component={Register} />        
+        <Route path="/KainRai-D-master/register" component={Register} />        
       </div>
  
       </Router>
