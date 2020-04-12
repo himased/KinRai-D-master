@@ -174,6 +174,7 @@ export default class Login extends Component {
                                     <img src={logo} alt="" width="200"/>
                                 </td>
                                 <td>
+                                   <br/>
                                 <h1 id="pages">Kin Rai - D </h1>
                                 <form id="login_form" onSubmit={this.onSubmit}>
                                     
@@ -201,6 +202,10 @@ export default class Login extends Component {
                                 <br/>
                                 <Link to="/register" id="Link">
                                 Click to Register
+                                </Link>
+                                <br/>
+                                <Link to="/develop" id="Link">
+                                Developer
                                 </Link>
                                 <br/>
                                 <br/>

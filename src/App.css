@@ -7,6 +7,23 @@
   transform: translate(-50%,-50%);
 }
 
+#name{
+  font-family: Mitr;
+  font-size: 80%;
+}
+
+#black-click{
+  font-family: Mitr;
+  text-decoration: none;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+#black-click:hover {
+  background-color: rgb(185, 0, 46);
+  color: rgb(255, 177, 190);
+}
+
 .main{
   background-color: rgba(242, 221, 221, 0.66);
   border-radius: 25px;

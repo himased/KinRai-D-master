@@ -6,6 +6,7 @@ import './App.css';
 import Login from './components/Login';
 import Register from './components/Register';
 import MealList from "./components/MealList"
+import Develop from './components/Develop';
 
 export default class App extends Component {
 
@@ -21,7 +22,7 @@ export default class App extends Component {
           <Login/>
           </div>
         )} />
-        
+        <Route path="/develop" component={Develop} /> 
         <Route path="/register" component={Register} />        
       </div>
  
