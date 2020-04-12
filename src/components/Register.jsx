@@ -31,12 +31,9 @@ export default class Register extends Component {
                 username: this.state.newuser,
                 password: this.state.newpassword
             }
-
-            
-
             console.log(user)
 
-            axios.post('http://localhost:3000/registries/add', user)
+            axios.post('http://localhost:5000/users/add', user)
                 .then(res => console.log(res.data))
 
             window.alert('Success, Please back to Login');
