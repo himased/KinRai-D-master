@@ -199,7 +199,7 @@ export default class Login extends Component {
 
                                 </form>
                                 <br/>
-                                <Link to="/KinRai-D-master/register" id="Link">
+                                <Link to="/register" id="Link">
                                 Click to Register
                                 </Link>
                                 <br/>
