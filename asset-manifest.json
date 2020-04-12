@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KinRai-D-master/static/css/main.dbef194f.chunk.css",
-    "main.js": "/KinRai-D-master/static/js/main.e6807c3a.chunk.js",
-    "main.js.map": "/KinRai-D-master/static/js/main.e6807c3a.chunk.js.map",
+    "main.js": "/KinRai-D-master/static/js/main.59e4ae43.chunk.js",
+    "main.js.map": "/KinRai-D-master/static/js/main.59e4ae43.chunk.js.map",
     "runtime-main.js": "/KinRai-D-master/static/js/runtime-main.a57ec4f7.js",
     "runtime-main.js.map": "/KinRai-D-master/static/js/runtime-main.a57ec4f7.js.map",
     "static/css/2.de424728.chunk.css": "/KinRai-D-master/static/css/2.de424728.chunk.css",
     "static/js/2.215f3be5.chunk.js": "/KinRai-D-master/static/js/2.215f3be5.chunk.js",
     "static/js/2.215f3be5.chunk.js.map": "/KinRai-D-master/static/js/2.215f3be5.chunk.js.map",
     "index.html": "/KinRai-D-master/index.html",
-    "precache-manifest.ec43460fe2bf06f82170a407a66c0d63.js": "/KinRai-D-master/precache-manifest.ec43460fe2bf06f82170a407a66c0d63.js",
+    "precache-manifest.ad77ffe91d16654118aa9c1240311bc9.js": "/KinRai-D-master/precache-manifest.ad77ffe91d16654118aa9c1240311bc9.js",
     "service-worker.js": "/KinRai-D-master/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/KinRai-D-master/static/css/2.de424728.chunk.css.map",
     "static/css/main.dbef194f.chunk.css.map": "/KinRai-D-master/static/css/main.dbef194f.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.215f3be5.chunk.js",
     "static/css/main.dbef194f.chunk.css",
-    "static/js/main.e6807c3a.chunk.js"
+    "static/js/main.59e4ae43.chunk.js"
   ]
 }
