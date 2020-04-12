@@ -78,7 +78,7 @@ export default class MealList extends Component{
             { this.exerciseList() }
           </tbody>
         </table>
-        <Link to="/KinRai-D" id="Link">
+        <Link to="/KinRai-D-master" id="Link">
                                 Back to Sign in
                                 </Link>
             </div>
