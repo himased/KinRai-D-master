@@ -16,7 +16,7 @@ export default class App extends Component {
         <br/>
       <div className="app">
         <Route path="/" exact component={MealList}/>
-        <Route exact path="/KinRai-D/" render={ props => (
+        <Route exact path="/KinRai-D-master/" render={ props => (
           <div>
           <Login/>
           </div>
