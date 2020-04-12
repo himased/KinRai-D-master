@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KinRai-D-master/static/css/main.dbef194f.chunk.css",
+    "main.js": "/KinRai-D-master/static/js/main.e6807c3a.chunk.js",
+    "main.js.map": "/KinRai-D-master/static/js/main.e6807c3a.chunk.js.map",
+    "runtime-main.js": "/KinRai-D-master/static/js/runtime-main.a57ec4f7.js",
+    "runtime-main.js.map": "/KinRai-D-master/static/js/runtime-main.a57ec4f7.js.map",
+    "static/css/2.de424728.chunk.css": "/KinRai-D-master/static/css/2.de424728.chunk.css",
+    "static/js/2.215f3be5.chunk.js": "/KinRai-D-master/static/js/2.215f3be5.chunk.js",
+    "static/js/2.215f3be5.chunk.js.map": "/KinRai-D-master/static/js/2.215f3be5.chunk.js.map",
+    "index.html": "/KinRai-D-master/index.html",
+    "precache-manifest.ec43460fe2bf06f82170a407a66c0d63.js": "/KinRai-D-master/precache-manifest.ec43460fe2bf06f82170a407a66c0d63.js",
+    "service-worker.js": "/KinRai-D-master/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/KinRai-D-master/static/css/2.de424728.chunk.css.map",
+    "static/css/main.dbef194f.chunk.css.map": "/KinRai-D-master/static/css/main.dbef194f.chunk.css.map",
+    "static/js/2.215f3be5.chunk.js.LICENSE.txt": "/KinRai-D-master/static/js/2.215f3be5.chunk.js.LICENSE.txt",
+    "static/media/Logo1.png": "/KinRai-D-master/static/media/Logo1.48e0803d.png",
+    "static/media/index.css": "/KinRai-D-master/static/media/bg.d7a2b27b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a57ec4f7.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.215f3be5.chunk.js",
+    "static/css/main.dbef194f.chunk.css",
+    "static/js/main.e6807c3a.chunk.js"
+  ]
+}
