@@ -91,7 +91,7 @@ export default class Register extends Component {
 
                             </form>
                             <br/>
-                            <Link to="/KinRai-D/" id="Link">
+                            <Link to="/KinRai-D-master/" id="Link">
                                 Back to Login
                             </Link>
                             <br/>
