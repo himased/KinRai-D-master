@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe7c3bc0ccdd8ee711be138cbe3193e7",
+    "revision": "45f33a82ce5e8b561851a42904d5e60e",
     "url": "/KinRai-D-master/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KinRai-D-master/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "5257a3271347a804354f",
+    "revision": "df6d2cc7b2e263e1cd11",
     "url": "/KinRai-D-master/static/css/main.dbef194f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KinRai-D-master/static/js/2.215f3be5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5257a3271347a804354f",
-    "url": "/KinRai-D-master/static/js/main.b8ec307e.chunk.js"
+    "revision": "df6d2cc7b2e263e1cd11",
+    "url": "/KinRai-D-master/static/js/main.5a19adda.chunk.js"
   },
   {
     "revision": "4844b9935026d2308377",
